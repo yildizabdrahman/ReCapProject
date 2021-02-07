@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4/qkPyVak1+CuCpWadKuKPZe8VIW11E2e4pJ3QA7F7vefnv5uoR4fJg1rG+ZdYK+GRM1zZNtZEhu4f8IytzLHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sonde\\source\\repos\\ReCapProject\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
